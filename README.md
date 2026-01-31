@@ -130,14 +130,8 @@ npm run dev
 ---
 
 ## 💻 실행 화면 (Screenshots)
+<img width="773" height="661" alt="image" src="https://github.com/user-attachments/assets/a787322d-b93e-4423-967f-3c1a91f03fec" />
 
-| 메인 채팅 화면 | 자가 치유(Self-Correction) 로그 |
-| --- | --- |
-| *(여기에 React 채팅창 캡처 이미지를 넣으세요)* <br>
-
-<br> 자연어 질문 시 테이블 형태로 응답 | *(여기에 Java 콘솔 로그 캡처)* <br>
-
-<br> 1차 에러 -> 2차 수정 후 성공 로그 |
 
 ---
 
